@@ -1,2 +1,2 @@
 # ComicReaderAndroidApp
-Clinet side of Comic Reader project
+Client side of Comic Reader project
